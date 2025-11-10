@@ -1,0 +1,12 @@
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\controller\AdminController.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\controller\StudentController.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\controller\TeacherController.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\model\DatabaseConnection.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\model\Student.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\model\Subject.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\model\Teacher.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\test\CheckStudent.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\view\AdminDashboard.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\view\LoginScreen.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\view\StudentDashboard.java
+C:\Users\vicha\Desktop\ERP2.0\CollegeManagementSystem\src\view\TeacherDashboard.java
