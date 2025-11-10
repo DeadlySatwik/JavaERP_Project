@@ -120,7 +120,7 @@ public class AdminDashboard extends JFrame {
         int row = studentTable.getSelectedRow();
         if (row < 0) { JOptionPane.showMessageDialog(this, "Select a student"); return; }
         int id = (int) sModel.getValueAt(row, 0);
-        // fetch full student
+        
         Student target = null;
         for (Student s : controller.getAllStudents()) if (s.getId() == id) { target = s; break; }
         if (target == null) { JOptionPane.showMessageDialog(this, "Student not found"); return; }

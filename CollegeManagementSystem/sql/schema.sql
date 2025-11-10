@@ -34,7 +34,7 @@ CREATE TABLE admin (
   password VARCHAR(255) NOT NULL
 );
 
--- Insert teacher list (as required)
+
 INSERT INTO teachers (name, subject, phone, photo_url, password) VALUES
 ('Naveen Saini', 'COA', NULL, 'naveen123'),
 ('Shiv Ram Dubey', 'DSA', NULL, 'shiv123'),
@@ -43,11 +43,11 @@ INSERT INTO teachers (name, subject, phone, photo_url, password) VALUES
 ('Bibhash Ghoshal', 'WEB-DEV', NULL, 'bibhash123'),
 ('Saurabh Verma', 'DMS', NULL, 'saurabh123');
 
--- Sample students
+
 INSERT INTO students (name, rollno, phone, address, photo_url, password, COA, DSA, PDC, POM, WEBDEV, DMS) VALUES
 ('Ankit Sharma','R001','9999999001','123 College Road','assets/student_placeholder.jpg','pass1',78,82,75,80,85,79),
 ('Riya Singh','R002','9999999002','45 Campus Lane','assets/student_placeholder.jpg','pass2',88,91,79,84,90,86),
 ('Mohit Kumar','R003','9999999003','12 Hostel Street','assets/student_placeholder.jpg','pass3',67,71,69,72,70,68);
 
--- Admin user
+
 INSERT INTO admin (username, password) VALUES ('admin', 'admin');
